@@ -1,0 +1,2 @@
+# dotemacs
+config for spacemacs
